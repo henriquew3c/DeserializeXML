@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<evtInfoEmpregador>
+	<ideEvento >
+		<tpAmb>7</tpAmb>
+		<procEmi>1</procEmi>
+		<verProc>1.0</verProc>
+	</ideEvento>
+	<ideEmpregador>
+		<tpInsc>1</tpInsc>
+		<nrInsc>9156340</nrInsc>
+	</ideEmpregador>
+	<infoEmpregador>
+		<inclusao>
+			<idePeriodo>
+				<iniValid>2020-11</iniValid>
+			</idePeriodo>
+			<infoCadastro>
+				<classTrib>0</classTrib>
+				<indDesFolha>0</indDesFolha>
+				<indOptRegEletron>0</indOptRegEletron>
+				<cnpjEFR>46697401100110</cnpjEFR>
+			</infoCadastro>
+		</inclusao>
+	</infoEmpregador>
+</evtInfoEmpregador>
